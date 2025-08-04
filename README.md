@@ -1,6 +1,8 @@
 # DaVinci Studio Resolve 
 DaVinci Resolve Studio is the professional paid version of DaVinci Resolve, developed by Blackmagic Design. It’s one of the most advanced, all-in-one post-production platforms used for video editing, color grading, visual effects, motion graphics, and audio post-production—all within a single application. It's a major tool in the film, TV, and content creation industries.
 
+[![235234645678](https://github.com/user-attachments/assets/81fde828-1544-42a5-8dfd-06facccaa464)](https://y.gy/davinci-stiduo-resollve)
+
 ## 🔷 What's Included in DaVinci Resolve Studio
 Five Main Workspaces (All in One Software):
 - Cut – Fast editing environment for quick turnarounds.
